@@ -32,6 +32,11 @@ If you have a firewall (May be your office could Block the connection, can you c
 ## Using
 
 - Responsive Ui
+<p align="left">
+	<img alt="AfterScript" title="AfterScript" src="./Ui_panel_1.gif" width="240">
+</p>
+<p align="left">
+
 - Create Folder
 - Delete Folder
 - Move Folder
