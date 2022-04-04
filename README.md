@@ -40,6 +40,7 @@ If you have a firewall (May be your office could Block the connection, can you c
 
 - Create Folder</p>
   Select your layers, name your folder, prompt pop-up keep the last name.
+  </p> All layers wich have already parent will not change, layers with no parent will be parent to the new folder.
 	</p> Kbar Code: 'CreateFolder'
 	<p align="left">
 	<img alt="AfterScript" title="AfterScript" src="./images/Create_Group_4.gif" width="700">
