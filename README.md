@@ -1,10 +1,10 @@
 <p align="center">
 	<img alt="AfterScript" title="AfterScript" src="./VIGNETTE.png" width="240">
 </p>
-<p align="center">Rearrange-AeFolder</p>
+<p align="center">
 
 Help for Ae Script "Rearrange AeFolder" on Gumroad
-Feedback, bugs... send an email to : feedbackscript@outlook.fr
+</p> Feedback, bugs... send an email to : feedbackscript@outlook.fr
 
 ## What and why
 
