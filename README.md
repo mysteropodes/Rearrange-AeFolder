@@ -38,15 +38,27 @@ If you have a firewall (May be your office could Block the connection, can you c
 </p>
 <p align="left">
 
-- Create Folder
-  Select your layers	
+- Create Folder</p>
+  Select your layers, name your folder, prompt pop-up keep the last name.
+	</p> Kbar Code: 'CreateFolder'
 	<p align="left">
 	<img alt="AfterScript" title="AfterScript" src="./images/Create_Group_4.gif" width="700">
 </p>
 <p align="left">
 	
 - Delete Folder
+	</p> Kbar Code: 'DeleteFolder'
 - Move Folder
+	</p> Kbar Code: 'MoveFolder'
 - Visible Folder
+	</p> Kbar Code: 'Visible'
 - Shy Folder
+	</p> Kbar Code: 'Solo'
 - Refresh Folder
+	</p> Kbar Code: 'Refresh'	
+
+
+
+
+
+
