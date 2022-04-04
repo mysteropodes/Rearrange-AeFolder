@@ -31,13 +31,19 @@ If you have a firewall (May be your office could Block the connection, can you c
 
 ## Using
 
-- Responsive Ui
-<p align="center">
-	<img alt="AfterScript" title="AfterScript" src="./images/00_Folder.gif" width="30">
+- Responsive Ui Vertical or Horizontal
+	<p align="left">
+	<img alt="AfterScript" title="AfterScript" src="./images/Ui_panel_1.gif" width="150">
 </p>
-<p align="enter">
+<p align="left">
 
 - Create Folder
+  Select your layers	
+	<p align="left">
+	<img alt="AfterScript" title="AfterScript" src="./images/Create_Group_4.gif" width="700">
+</p>
+<p align="left">
+	
 - Delete Folder
 - Move Folder
 - Visible Folder
