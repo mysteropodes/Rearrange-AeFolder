@@ -33,7 +33,7 @@ If you have a firewall (May be your office could Block the connection, can you c
 
 - Responsive Ui
 <p align="left">
-	<img alt="AfterScript" title="AfterScript" src="./f0545988370a1f9254269a4cfbd2ca41aa42da75/Ui_panel_1.gif" width="240">
+	<img alt="AfterScript" title="AfterScript" src="./images/00_Folder.gif" width="240">
 </p>
 <p align="left">
 
