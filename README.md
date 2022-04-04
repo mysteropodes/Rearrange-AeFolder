@@ -9,6 +9,7 @@ Feedback, bugs... send an email to : feedbackscript@outlook.fr
 ## What and why
 
 Script for After Effects compatible with Kbar, work only with GM_FoldLayers (Free Tool)  .
+https://web.archive.org/web/20160602080225/http://goodmotion.se/GM_FoldLayers_1.0.1.zip </p>
 GM FoldLayers allow you make group layer and just a double clik to open it.
 
 You can use it for free before to decide to go further with Rearrange AeFolder.
