@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="AfterScript" title="AfterScript" src="./VIGNETTE.png" width="240">
+	<img alt="AfterScript" title="AfterScript" src="./VIGNETTE.png" width="540">
 </p>
 <p align="center">
 
