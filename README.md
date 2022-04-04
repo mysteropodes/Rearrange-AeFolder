@@ -32,10 +32,10 @@ If you have a firewall (May be your office could Block the connection, can you c
 ## Using
 
 - Responsive Ui
-<p align="left">
-	<img alt="AfterScript" title="AfterScript" src="./images/00_Folder.gif" width="240">
+<p align="center">
+	<img alt="AfterScript" title="AfterScript" src="./images/00_Folder.gif" width="30">
 </p>
-<p align="left">
+<p align="enter">
 
 - Create Folder
 - Delete Folder
